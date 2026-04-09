@@ -21,6 +21,6 @@ I am a computer science studen from Palestine. Passionate about programming and 
 
 ### 📫 Contact with me 
 
-[![Linkedin Page](https://www.linkedin.com/in/naheel-qunaibi/)  
+[Linkedin Page](https://www.linkedin.com/in/naheel-qunaibi/)  
 
 ⭐️ Check out my repositories below! ⭐️
