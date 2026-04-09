@@ -5,7 +5,7 @@ I am a computer science studen from Palestine. Lover of all things programming. 
 I’m currently studying and actively learning about programming and artificial intelligence through diverse platforms and resources. My focus is on building a strong foundation in languages like C++, Python, and Java, some of my project:
 
 -   An AI model to classifie flowers [flowers classifier](https://github.com/NaheelQunaibi/flowers_classifier).
--   A Pre-trained Image Classifier to Identify-Customer-Segments [Identify-Customer-Segments](https://github.com/NaheelQunaibi/Identify-Customer-Segments).
+-   Customer segmentation through unsupervised clustering model [Identify-Customer-Segments](https://github.com/NaheelQunaibi/Identify-Customer-Segments).
 -   The traditional snake game [snake](https://github.com/NaheelQunaibi/Snake_Game).
 
 ### Technologies
